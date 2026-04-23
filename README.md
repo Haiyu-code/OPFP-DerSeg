@@ -1,4 +1,4 @@
-# PHIG-Net
+# OPFP-DerSeg
 Rethinking Dermoscopic Segmentation: Optical Priors and Frequency Purification
 The manuscript is currently under review.
 
